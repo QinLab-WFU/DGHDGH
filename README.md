@@ -1,4 +1,4 @@
-# DGHDGH
+# [DGHDGH](https://openreview.net/forum?id=GAQEsnnQtG)
 Source code for ICLR 2026 paper “Deep Global-sense Hard-negative Discriminative Generation Hashing for Cross-modal Retrieval”.
 
 ## Training
